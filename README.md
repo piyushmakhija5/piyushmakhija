@@ -1,6 +1,6 @@
 ## Hi, I'm Piyush 👋
 <!--
-**piyushmakhija5/piyushmakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**piyushmakhija5/piyushmakhija5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 I'm an applied researcher and data scientist. I'm a first generation engineer/computer scientist with a have a passion to solve real world problems.
