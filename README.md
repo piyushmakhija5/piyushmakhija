@@ -3,7 +3,7 @@
 **piyushmakhija5/piyushmakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a applied researcher and data scientist. I'm a first generation engineer with a passion to solve real world problems.
+I'm an applied researcher and data scientist. I'm a first generation engineer/computer scientist with a have a passion to solve real world problems.
 
 - 👨‍🏫 I'm currently working building an AI-first Ed-Tech Conversational Agent which solves for personalized learning.
 - 👨‍💻 I have expertise in building ML systems from scratch and taking end-to-end product ownership.
